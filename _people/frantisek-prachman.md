@@ -6,8 +6,8 @@ category:                 # kategorie
 - kandidat
 img: people/frantisek-prachman.jpg   # 165 x 220
 description: OSVČ<br>kameraman          	# kratký popis, max 160 znaků
-mail: FOOS@seznam.cz
--
+mail:
+- FOOS@seznam.cz
 profiles:
   facebook: https://www.facebook.com/frantisek.prachman
 ordkandidat: 4

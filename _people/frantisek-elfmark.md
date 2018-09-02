@@ -1,7 +1,7 @@
 ---
 uid: frantisek.elfmark
 name:     František Elfmark  	# běžně používáné jméno
-fullname: František Elfmark  	# jméno s tituly etc.
+fullname: František Elfmark, DiS.  	# jméno s tituly etc.
 category:                 # kategorie
 - poslanec
 - kandidat
