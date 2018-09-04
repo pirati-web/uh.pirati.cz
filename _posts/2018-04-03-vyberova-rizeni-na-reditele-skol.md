@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Ředitelé čtyř škol v UH automaticky obhájili své funkce. Podle Pirátů měly proběhnout konkurzy'
+title: 'Ředitelé čtyř škol v UH automaticky obhájili své funkce. Piráti jsou proti'
 date: 2018-04-03T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
