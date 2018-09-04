@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: '"UHlídáme HRADIŠTĚ," vzkazují Piráti a míří do obecního zastupitelstva'
+title: '"UHlídáme HRADIŠTĚ," vzkazují Piráti a míří do zastupitelstva města'
 date: 2018-09-04T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
