@@ -14,7 +14,7 @@ mob:			  +420 775 611 920
 mail:
 - jaroslav.sevcik@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/sevcikjar/
+  facebook: https://www.facebook.com/piratsevcikjar/
 ordpms: 3
 ordkontakty: 1
 ordkandidat: 1
