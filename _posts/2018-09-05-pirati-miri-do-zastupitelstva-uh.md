@@ -1,8 +1,8 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti míří do zastupitelstva UH. Do voleb jdou s heslem “UHlídáme”'
-date: 2018-09-05T13:06:00.032Z
+title: 'Piráti míří do zastupitelstva Uherského Hradiště. Do voleb jdou s heslem “UHlídáme”'
+date: 2018-09-05T00:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/miscellaneous/fbkandidati.jpg
