@@ -1,14 +1,14 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti míří do zastupitelstva Uherského Hradiště. Jejich heslem je “UHlídáme”'
+title: '"UHlídáme HRADIŠTĚ," vzkazují Piráti a míří do obecního zastupitelstva'
 date: 2018-09-04T12:06:00.032Z
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/miscellaneous/fbkandidati.jpg
 tags: 'Uherské-Hradiště volby-2018 tisková-zpráva'
 ---
-Členům a příznivcům České pirátské strany z Uherského Hradiště se v srpnu úspěšně podařilo podat <a href="https://uh.pirati.cz/kandidati/" target="_blank">kompletní kandidátku</a> se sedmadvaceti jmény a poperou se tak o místa v místním zastupitelstvu. Na radnici mají v plánu prosazovat obecné pirátské myšlenky a řešit i lokální problémy. <a href="https://uh.pirati.cz/program/" target="_blank">Programové body</a> i kampaň zastřešují heslem “UHlídáme”.
+Členům a příznivcům České pirátské strany z Uherského Hradiště se v srpnu úspěšně podařilo podat <a href="https://uh.pirati.cz/kandidati/" target="_blank">kompletní kandidátku</a> se sedmadvaceti jmény a poperou se tak o místa v místním zastupitelstvu. Na radnici mají v plánu prosazovat obecné pirátské myšlenky a řešit i lokální problémy. <a href="https://uh.pirati.cz/program/" target="_blank">Programové body</a> i kampaň zastřešují heslem “UHlídáme HRADIŠTĚ”.
 
 “Umíme věci dělat jinak a toto bychom rádi na radnici předvedli. Jsme pro zavádění novinek a zároveň dokončení rozpracovaných projektů. Naše heslo tedy znamená nejen srovnání s hlídacími psy, což je oblíbená vizitka Pirátů, ale v případě kormidlování radnice také schopnost pohlídat zdárné dokončení věcí, které se tu dlouho pouze slibují. Například modernizaci MHD či řešení problémů s parkováním. Do rozhodování chceme také více zapojit spoluobčany,” popisuje cíle uherskohradišťských Pirátů jejich lídr <a href="https://uh.pirati.cz/lide/jaroslav-sevcik/" target="_blank">Jaroslav Ševčík</a>. Dvaatřicetiletý obyvatel Rybáren v současnosti zastává funkci starosty a správce v místním T. J. Sokol a troufá si na stejný post i na radnici.
 
