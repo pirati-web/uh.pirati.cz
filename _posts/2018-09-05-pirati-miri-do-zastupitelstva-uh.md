@@ -16,6 +16,6 @@ Pirátští kandidáti, mezi kterými najdeme například dělníky, podnikatele
 
 Piráti z Uherského Hradiště chtějí v říjnu navázat na poctivou a efektivní práci svých kolegů v Poslanecké sněmovně či v Praze a Mariánských Lázních. Díky dosavadním výsledkům a stoupající popularitě strany věří, stejně jako další Piráti po celé ČR, v úspěch i na komunální úrovni. Volby do zastupitelstev obcí se konají 5. a 6. října 2018.
 
-Na webu uh.pirati.cz se můžete postupně těšit na rozhovor s lídrem i dalšími pirátskými kandidáty. Již nyní na něm naleznete kompletní <a href="https://uh.pirati.cz/program/" target="_blank">program</a> a navíc také <a href="https://uh.pirati.cz/program/" target="_blank">dotazník</a>, do kterého můžete uherskohradišťským Pirátům psát své podněty a stížnosti k radnici a městu.
+Na webu uh.pirati.cz se můžete postupně těšit na rozhovor s lídrem i dalšími pirátskými kandidáty. Již nyní na něm naleznete kompletní <a href="https://uh.pirati.cz/program/" target="_blank">program</a> a navíc také <a href="https://uh.pirati.cz/dotaznik/" target="_blank">dotazník</a>, do kterého můžete uherskohradišťským Pirátům psát své podněty a stížnosti k radnici a městu.
 
 - - -
