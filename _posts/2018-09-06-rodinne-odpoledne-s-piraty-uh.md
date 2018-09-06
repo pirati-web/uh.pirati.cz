@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti z UH zvou na akci s kvízem a hrami do parku. Na závěr bude Boom Bác'
+title: 'Piráti z UH zvou do Smetanových sadů na akci s kvízem a hrami. Na závěr bude Boom Bác'
 date: 2018-09-05
 author: Marek Houser
 authorId: marek.houser
