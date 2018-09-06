@@ -8,7 +8,9 @@ authorId: marek.houser
 image: /assets/img/posts/rodinne-odpoledne.jpg
 tags: 'Uherské-Hradiště volby-2018 pozvánka'
 ---
-Ve čtvrtek 27. září se ve Smetanových sadech v Uherském Hradišti uskuteční "Rodinné odpoledne s Piráty". Program, který startuje ve 13 hodin, nabídne nejen neformální rozhovory s pirátskými kandidáty do zastupitelstva, ale také řadu her a soutěží. O větší či menší ceny si mohou zasoutěžit jak děti, tak i dospělí. Piráti plánují obyvatele města všech generací pobavit například soutěží v nožičkách, vědomostním kvízem nebo závěrečnou skate game. Děti si přijdou na své při házení na cíl, skákáním na nafukovacím hradu či malování na obličej.
+Ve čtvrtek 27. září se ve Smetanových sadech v Uherském Hradišti uskuteční "Rodinné odpoledne s Piráty". Program, který startuje ve 13 hodin, nabídne nejen neformální rozhovory s pirátskými kandidáty do zastupitelstva, ale také řadu her a soutěží.
+
+O pestré ceny si mohou zasoutěžit jak děti, tak i dospělí. Piráti plánují obyvatele města všech generací pobavit například soutěží v nožičkách, vědomostním kvízem nebo závěrečnou skate game. Děti si přijdou na své při házení na cíl, skákáním na nafukovacím hradu či malování na obličej.
 
 Oficiální afterparty pak obstará speciální pirátský díl tradiční akce Boom Bác.
 
