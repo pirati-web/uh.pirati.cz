@@ -14,6 +14,6 @@ O pestré ceny si mohou zasoutěžit jak děti, tak i dospělí. Piráti plánuj
 
 Oficiální afterparty pak obstará speciální pirátský díl tradiční akce Boom Bác.
 
-Více informací naleznete ve <a href="https://www.facebook.com/events/1744366875661677/" target="_blank">facebook události</a>.
+Kompletní nabídku aktivit a harmonogram Rodinného odpoledne s Piráty naleznete ve <a href="https://www.facebook.com/events/1744366875661677/" target="_blank">facebook události</a>.
 
 - - -
