@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Rozhovor s lídrem Pirátů v Uherském Hradišti Jaroslavem Ševčíkem'
+title: 'Rozhovor s Jaroslavem Ševčíkem, lídrem Pirátů v Uherském Hradišti'
 date: 2018-09-30
 author: Marek Houser
 authorId: marek.houser
