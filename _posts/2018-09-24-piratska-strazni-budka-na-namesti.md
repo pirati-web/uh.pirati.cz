@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti v UH nainstalovali vlastnoručně vyrobenou strážní budku. Má i USB nabíječku'
+title: 'Piráti v UH nainstalovali vlastnoručně vyrobenou strážní budku. Má i USB'
 date: 2018-09-24
 author: Marek Houser
 authorId: marek.houser

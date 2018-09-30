@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti v UH nainstalovali vlastnoručně vyrobenou strážní budku. Má i USB nabíječku'
+title: 'Rozhovor s lídrem Pirátů v UH Jaroslavem Ševčíkem'
 date: 2018-09-30
 author: Marek Houser
 authorId: marek.houser
