@@ -1,0 +1,15 @@
+---
+layout: blog
+category: CLANKY
+title: 'Jak se zachovají Piráti z UH po volbách? Budou se držet povolební strategie'
+date: 2018-09-30
+author: Marek Houser
+authorId: marek.houser
+image: /assets/img/posts/povstr.jpg
+tags: 'Uherské-Hradiště volby-2018 povolební-strategie'
+---
+Jak je již u Pirátů na celostátní i komunální úrovni zvykem, předem vydávají svou povolební strategii. Tedy dokument, jenž závazně stanovuje to, jakým směrem se budou Piráti ubírat po volbách. Nejen voliči České pirátské strany tak předem vědí, co mohou od našich kandidátů v případě zvolení očekávat. Podívejte se, jak vypadá <a href="https://docs.google.com/document/d/16WVxqEkfuTDveQs3RuLnEsL6IS3sTWj9v7EJDZvRU0E/" target="_blank">Povolební strategie Pirátů UH</a>  pro letošní komunální volby. Ta je součástí našeho komunálního programu.
+
+Z nedávné minulosti je středem pozornosti zejména také <a href="https://www.pirati.cz/program/psp2017/povolebni-strategie/" target="_blank">povolební strategie pro parlamentní volby 2017</a>, jejíž poctivé dodržování je jedním z důvodů, proč rostou volební preference Pirátů. Naše závazné dokumenty voličům předkládáme černé na bílém a vy sami si tak můžete zzkontrolovat, jak Piráti plní své sliby a cíle.
+
+- - -
