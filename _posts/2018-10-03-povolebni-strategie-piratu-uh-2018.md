@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Jak se zachovají Piráti v UH po volbách? Budou se držet povolební strategie'
-date: 2018-09-30
+date: 2018-10-03
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/povstr.jpg

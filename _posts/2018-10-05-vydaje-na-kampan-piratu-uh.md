@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Piráty z Uherského Hradiště vyšla předvolební kampaň na 76 159 korun'
-date: 2018-09-30
+date: 2018-10-05
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/rozpocet.jpg
