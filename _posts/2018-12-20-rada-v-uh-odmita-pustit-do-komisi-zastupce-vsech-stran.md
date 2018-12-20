@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Rada v UH odmítá pustit do komisí zástupce všech stran. Chybí nám snad židle?'
+title: 'Rada v UH odmítá pustit do komisí zástupce všech stran. Chybí snad židle?'
 date: 2018-12-20
 author: Marek Houser
 authorId: marek.houser
