@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Piráti z UH draží svou kampaňovou strážní budku. Výtěžek věnují na charitu'
-date: 20189-02-08
+date: 2019-02-08
 author: Marek Houser
 authorId: marek.houser
 image: /assets/img/posts/budkaaukce.jpg
