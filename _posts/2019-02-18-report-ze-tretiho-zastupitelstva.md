@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Pirátský report ze třetího zastupitelstva'
+title: 'Piráti UH: Report ze třetího zastupitelstva'
 date: 2019-02-18
 author: Marek Houser
 authorId: marek.houser
