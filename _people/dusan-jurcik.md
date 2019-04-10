@@ -17,16 +17,8 @@ ordkandidat: 3
 
 ---
 
-Dušan Jurčík (*29. 5. 1982, Uherské Hradiště) je spoluzakládajícím členem místního sdružení Uh. Hradiště, člen Týmu pro dopravu a Zahraničního odboru.
+Dušan Jurčík (*29. května 1982, Uherské Hradiště) je spoluzakládající člen místního sdružení Uh. Hradiště, člen Zlínského kraje.
 
-Vystudoval místní SPŠ a později nedokončil Zahraniční obchod a právo na právnické fakultě MU. Mezitím pomáhal v posledním ročníku civilní služby v místní nemocnici na ortopedii.
+Vystudoval management na SPŠ, nedokončil Zahraniční obchod a právo na právnické fakultě MU. Pracoval v různých profesích včetně malého pokusu o podnikání. Vždy jej do zpět stáhlo k logistice, které se i teď profesně věnuje.
 
-Ještě jako nepirát pracoval na lodi, v různých obchodech a skladech, kde se později vypracoval do vyšších pozic a začal se zajímat o dopravu a logistiku podrobněji.
-
-Politiku sleduje od mládí a po upozadění sportovních koníčků zaplnila volný čas Pirátská strana od léta 2017. V Pirátech od začátku chce pomáhat zlepšit procesy strany, a vrátit lidem důvěru v politiky.
-
-Do budoucna by rád pokračoval v pomoci Pirátů v zahraničí, zejména v sousedních zemích a dále pak se zaměřil na rozvoj dopravy, otevřenosti politiky a jejího návratu k základům jako služby občanům.
-
-Rád čte literaturu faktu, zajímá se o historii, ekonomiku a rád cestuje. Fotbal, tenis a kolo ustoupili procházkám s chlupáčem Oggym.
-
-Politiku dělá jako koníček, pro radost svou a pomoc v lepším životě všem ostatním.
+Politiku pasivně sleduje od velmi raného mládí, aktivně se přidal k Pirátům v létě 2017. Rád čte literaturu faktu, zajímá se o historii, politiku, ekonomiku a rád cestuje. Vrátil se ke sportu po pauze a je věčným začátečníkem různých cizích jazyků.

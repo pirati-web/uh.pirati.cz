@@ -1,11 +1,11 @@
 ---
-uid: yveta.martinková
+uid: yveta.martinkova
 name:     Yveta Martinková  	# běžně používáné jméno
 fullname: yveta Martinková  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - koks
 
-img: people/yveta-martinkova-kontakt.jpg   # 165 x 220
+img: people/yveta-martinkova.jpg   # 165 x 220
 description: koordinátorka Pirátů Zlínského kraje # kratký popis, max 160 znaků
 mob:			  +420 770 113 648
 mail:
