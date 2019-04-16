@@ -8,7 +8,7 @@ authorId: marek.houser
 image: /assets/img/posts/zmuh.jpg
 tags: 'zastupitelstvo report'
 ---
-Naši zastupitelé za sebou mají čtvrté zasedání, přinášíme tedy pravidelný report. Jednání zastupitelstva bylo tentokrát rychlé a téměř bez kontroverzí.
+Naši zastupitelé za sebou mají čtvrté zasedání, přinášíme tedy pravidelný report. Jednání zastupitelstva bylo tentokrát rychlé a bez větších kontroverzí, i tak se ovšem našlo několik bodů k hlubší diskuzi.
 
 Překvapivým bodem bylo rozhodnutí rady opustit spolek Svaz města a obcí ČR. Po několikadenním zjišťování, jestli je tento spolek městu vůbec nějak prospěšný (ptali jsme se například i Pirátů v zastupitelstvech po celé republice), se naši zastupitelé nakonec dohodli na volném hlasování. “Na základě informací od ostatních Pirátů jsem nakonec hlasoval pro. Členství podle všeho opravdu žádné velké výhody nemá,” komentoval své hlasování Jaroslav Ševčík. Jeho kolega František Elfmark se zdržel. “Je možné, že město tímto ztratí nějakou možnost vyjednávání např. s parlamentem, proto jsem nechtěl hlasovat pro,” vysvětlil.
 
