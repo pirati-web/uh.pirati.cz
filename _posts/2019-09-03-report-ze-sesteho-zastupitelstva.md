@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti UH: Report z pátého zastupitelstva'
+title: 'Piráti UH: Report ze šestého zastupitelstva'
 date: 2019-09-03
 author: Marek Houser
 authorId: marek.houser
@@ -23,7 +23,7 @@ Choreografka Ladislava Košíková a trenér házené Jiří Zerzáň <a href="h
 
 Zajímavou novinkou bude po bodech rozdělený z jednání zastupitelstva. Doposud byl k dispozici pouze nepřerušený a v jednom souboru. Pro zájemce se tak jedná o možnost snadnějšího vyhledávání. Rozdělený audiozáznam by měl být poprvé dostupný být po devátém zasedání současných zastupitelů.
 
-Po posledním řádném bodu jsme vyslechli prezentaci hmotové studie projektu “Stará Tenice” a konfrontovali jsme investory s peticí občanů, kteří nám dali najevo své obavy. “Bylo nám přislíbeno, že se tímto bude investor zabývat a byli jsme ujištěni, že jde pouze o studii a ne konečné řešení projektu. Vývoj projektu budeme i nadále sledovat a připomínkovat,” ujišťuje zastupitel Pirátů Jaroslav Ševčík.
+Po posledním řádném bodu jsme vyslechli <a href="https://drive.google.com/open?id=1Ogzm53KpbX_Ni5t9hURGdl_DkTDA8Riu" target="_blank">prezentaci</a> hmotové studie projektu “Stará Tenice” a konfrontovali jsme investory s peticí občanů, kteří nám dali najevo své obavy. “Bylo nám přislíbeno, že se tímto bude investor zabývat a byli jsme ujištěni, že jde pouze o studii a ne konečné řešení projektu. Vývoj projektu budeme i nadále sledovat a připomínkovat,” ujišťuje zastupitel Pirátů Jaroslav Ševčík.
 
 Máte připomínky k životu v Uherském Hradišti? Dejte nám vědět skrze <a href="https://uh.pirati.cz/dotaznik/" target="_blank">formulář</a>.
 
