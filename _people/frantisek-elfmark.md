@@ -6,7 +6,7 @@ category:                 # kategorie
 - poslanec
 - kandidat
 img: people/frantisek-elfmark.jpg   # 165 x 220
-description: pirátský poslanec za Zlínský kraj          	# kratký popis, max 160 znaků
+description: pirátský poslanec za Zlínský kraj<br>zastupitel         	# kratký popis, max 160 znaků
 mail:
 - frantisek.elfmark@pirati.cz
 profiles:
