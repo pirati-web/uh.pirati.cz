@@ -6,7 +6,6 @@ category:                 # kategorie
 - pms
 - kontakt
 - clenove
-- kandidat
 img: people/marek-houser.jpg   # 165 x 220
 description: předseda MS UH<br>marketingový specialista<br>asistent poslance          	# kratký popis, max 160 znaků
 mail:

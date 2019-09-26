@@ -5,7 +5,6 @@ fullname: Dušan Jurčík  	# jméno s tituly etc.
 category:                 # kategorie
 - pms
 - clenove
-- kandidat
 img: people/dusan-jurcik.jpg   # 165 x 220
 description: 1. místopředseda MS UH<br>pracovník v logistice          	# kratký popis, max 160 znaků
 mail:

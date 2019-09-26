@@ -4,7 +4,7 @@ name:     František Elfmark  	# běžně používáné jméno
 fullname: František Elfmark, DiS.  	# jméno s tituly etc.
 category:                 # kategorie
 - poslanec
-- kandidat
+- clenove
 img: people/frantisek-elfmark.jpg   # 165 x 220
 description: pirátský poslanec za Zlínský kraj<br>zastupitel         	# kratký popis, max 160 znaků
 mail:

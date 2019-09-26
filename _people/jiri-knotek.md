@@ -4,7 +4,6 @@ name:     Jiří Knotek  	# běžně používáné jméno
 fullname: Jiří Knotek  	# jméno s tituly etc.
 category:                   # kategorie: clenove
 - clenove
-
 img: people/jiri-knotek.jpg   # 165 x 220
 description: student politologie na UPOL # kratký popis, max 160 znaků
 mail:

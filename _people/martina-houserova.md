@@ -4,7 +4,6 @@ name:     Martina Houserová  	# běžně používáné jméno
 fullname: Ing. Martina Houserová  	# jméno s tituly etc.
 category:                   # kategorie: celnove
 - clenove
-
 img: people/martina-houserova.jpg   # 165 x 220
 description: marketingový koordinátor # kratký popis, max 160 znaků
 mail:
