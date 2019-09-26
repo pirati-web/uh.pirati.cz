@@ -5,8 +5,8 @@ fullname: Lubomír Doležal  	# jméno s tituly etc.
 category:                   # kategorie: celnove
 - clenove
 
-img: people/ppp.jpg   # 165 x 220
-description: rozpočtář # kratký popis, max 160 znaků
+img: people/lubomir-dolezal.jpg   # 165 x 220
+description: rozpočtář<br>zastupitel obce Stupava # kratký popis, max 160 znaků
 mail:
 - lubomir.dolezal@pirati.cz
 profiles:
