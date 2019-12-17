@@ -7,7 +7,7 @@ category:                 # kategorie
 - kontakt
 - clenove
 img: people/marek-houser.jpg   # 165 x 220
-description: předseda MS UH<br>marketingový specialista<br>asistent poslance          	# kratký popis, max 160 znaků
+description: předseda MS UH<br>marketingový specialista<br>redaktor          	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz
 mob:			  +420 725 611 894

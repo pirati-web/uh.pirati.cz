@@ -3,8 +3,6 @@ layout: blog
 category: CLANKY
 title: 'Piráti UH: Report z osmého zastupitelstva'
 date: 2019-12-16
-author: Marek Houser
-authorId: marek.houser
 image: /assets/img/posts/zmuh8.jpg
 tags: 'zastupitelstvo report'
 ---
@@ -16,10 +14,8 @@ Na náš návrh odděleného hlasování jsme podpořili organizace jako je nap�
 
 Město má zájem o budovu bývalé Komerční banky. Proto jsme pověřili starostu města, aby o koupi budovy jednal se zástupci banky. K tomuto bodu jsme navrhli doplnit, aby starosta neprodleně zastupitele informoval o  všech nových skutečnostech ohledně tohoto záměru. "Náš návrh byl jednomyslně schválen a v lednu na mimořádném zastupitelstvu snad již budeme vědět víc,” říká Jaroslav Ševčík, který za Piráty usnesení doplnil.
 
-Z dalších velmi důležitých bodů bylo memorandum o porozumění s CTZ. V minulosti jsme pověřili starostu, aby hledal řešení, jak se zbavit uhelného prachu jako topného média v Uherském Hradišti. Hlavně lidé v ulici Na Zápovědi velmi dobře ví, jaký je tento prach peklo. "Memorandum nás posouvá dál a začínají se tak prověřovat různé varianty, jak v Hradišti topit dál. Je to začátek cesty a jsme velmi rádi, že se povedlo tuto cestu odstartovat. V minulosti jsem tuto problematiku řešil a bylo jasné, že nic jiného (mlžná stěna, zelená stěna, redukce výšky hruboprachové skládky) než změna média fungovat nebude,”  říká František Elfmark, který měl v předchozím období životní prostředí resortně na starosti. Návrh memoranda jsme podpořili.
+Z dalších velmi důležitých bodů bylo <a href="https://www.mesto-uh.cz/zamery-na-snizeni-prasnosti-z-teplarny-potvrdi-nove" target="_blank">memorandum</a> o porozumění s CTZ. V minulosti jsme pověřili starostu, aby hledal řešení, jak se zbavit uhelného prachu jako topného média v Uherském Hradišti. Hlavně lidé v ulici Na Zápovědi velmi dobře ví, jaký je tento prach peklo. "Memorandum nás posouvá dál a začínají se tak prověřovat různé varianty, jak v Hradišti topit dál. Je to začátek cesty a jsme velmi rádi, že se povedlo tuto cestu odstartovat. V minulosti jsem tuto problematiku řešil a bylo jasné, že nic jiného (mlžná stěna, zelená stěna, redukce výšky hruboprachové skládky) než změna média fungovat nebude,”  říká František Elfmark, který měl v předchozím období životní prostředí resortně na starosti. Návrh memoranda jsme podpořili.
 
 Na zastupitelstvu se po diskusi objevil návrh, který jsme také podpořili, a to odpustit pejskařům v Uherském Hradišti poplatek za psy. “Je skvělé, že jsme tento návrh mohli podpořit, protože tento poplatek byl administrativně náročný a majitelům přinášel jen plastové pytlíky. Takto se povedlo dát Hradišťákům pěkný dárek na Vánoce,” sdělil Jaroslav Ševčík. Návrh na zrušení tohoto poplatku prošel, a tak příští rok již žádný poplatek za psa platit nemusíte.
-
-https://www.mesto-uh.cz/zamery-na-snizeni-prasnosti-z-teplarny-potvrdi-nove
 
 - - -
