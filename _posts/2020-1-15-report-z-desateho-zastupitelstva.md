@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: 'Piráti UH: Report z desátého zastupitelstva'
 date: 2019-1-15
-image: /assets/img/posts/zmuh10.jpg
+image: /assets/img/posts/zm10.jpg
 tags: 'zastupitelstvo report'
 ---
 
