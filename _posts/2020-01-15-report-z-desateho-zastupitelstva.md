@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Piráti UH: Report z desátého zastupitelstva'
-date: 2019-1-15
+date: 2019-01-15
 image: /assets/img/posts/zm10.jpg
 published: true
 author: František Elfmark
