@@ -6,8 +6,8 @@ date: 2019-1-15
 image: /assets/img/posts/zm10.jpg
 published: true
 author: František Elfmark
-authorId: felfmark
-tags: 'zastupitelstvo report Jaroslav Ševčík František Elfmark'
+authorId: frantisek.elfmark
+tags: 'zastupitelstvo report Jaroslav-Ševčík František-Elfmark'
 ---
 
 13.1.2020 zasedalo již po desáté zastupitelstvo města Uherské Hradiště. Zásadní a jako třetí bod bylo nabytí objektu Svatováclavská čp. 450 (objekt Komerční banky) ke koupi a to za cenu 35 milionů korun. Po nastudování podrobných materiálů, a to jak k zastupitelstvu města, tak i v komisi pro nakládání s majetkem města, jsme se rozhodli koupi budovy na Svatováclavské ulici č. 450 podpořit.
