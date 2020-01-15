@@ -13,6 +13,6 @@ Rozhodně jsem pro nabytí této významné historické nemovitosti v centru Uhe
 
 Budova je pro město nejen historicky, ale i strategicky velmi důležitá, a proto jsme na zastupitelstvu zvedli ruku pro její koupi.
 
-Město plánuje do této budovy přesunout z Revoluční ulice pracoviště odboru dopravních a správních agend. Na budově je záměrem rozmístit jednotlivá pracoviště takto: I. nadzemní podlaží – registr vozidel – II. nadzemní podlaží – matrika, evidence obyvatel, osobní doklady, řidičské průkazy – III. nadzemní podlaží – OPŘ, zkušební komisaři. Budova na Revoluční ulici pak půjde do prodeje,“ říká zastupitel a poslanec ČR František Elfmark. Určitě by bylo vhodné koncepčně promyslet i jiné případné varianty využití budovy, dodává současně.
+Město plánuje do této budovy přesunout z Revoluční ulice pracoviště odboru dopravních a správních agend. Na budově je záměrem rozmístit jednotlivá pracoviště takto: I. nadzemní podlaží – registr vozidel – II. nadzemní podlaží – matrika, evidence obyvatel, osobní doklady, řidičské průkazy – III. nadzemní podlaží – OPŘ, zkušební komisaři. Budova na Revoluční ulici pak půjde do prodeje, říká zastupitel a poslanec ČR František Elfmark. Určitě by bylo vhodné koncepčně promyslet i jiné případné varianty využití budovy, dodává současně.
 
 - - -
