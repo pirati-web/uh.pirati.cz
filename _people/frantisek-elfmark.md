@@ -1,8 +1,8 @@
 ---
 uid: frantisek.elfmark
 name:     František Elfmark  	# běžně používáné jméno
-fullname: František Elfmark, DiS.  	# jméno s tituly etc.
-category:  2. místopředseda MS UH               # kategorie
+fullname: Bc. František Elfmark, DiS.  	# jméno s tituly etc.
+category:  2. místopředseda MS UH   # kategorie
 - pms
 - poslanec
 - clenove
