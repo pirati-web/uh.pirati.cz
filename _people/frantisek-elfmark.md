@@ -1,8 +1,8 @@
 ---
 uid: frantisek.elfmark
-name: František Elfmark  	# běžně používáné jméno
+name: František Elfmark               	# běžně používáné jméno
 fullname: Bc. František Elfmark, DiS.  	# jméno s tituly etc.
-category: 2. místopředseda MS UH   # kategorie
+category:                               # kategorie
 - poslanec
 - pms
 - clenove
@@ -10,13 +10,16 @@ img: people/frantisek-elfmark.jpg   # 165 x 220
 description: pirátský poslanec<br>zastupitel města         	# kratký popis, max 160 znaků
 mail:
 - frantisek.elfmark@pirati.cz
+mob:			  +420 604 171 281
 profiles:
   facebook: https://www.facebook.com/FrantisekElfmark.DiS/
   linkedin: https://www.linkedin.com/in/frantisek-elfmark/
   twitter: http://twitter.com/ElfmarkF
+ordpms: 3
 ordkandidat: 2
 
 ---
+
 
 František Elfmark (*19. 10. 1978, Uherské Hradiště) je pirátským poslancem PSP ČR za Zlínský kraj a člen Pirátů. Bydlí s rodinou v místní části Míkovice v Uherském Hradišti. Má dvě děti Štěpánka a Stellinku.
 
