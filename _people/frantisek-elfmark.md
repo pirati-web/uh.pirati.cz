@@ -1,12 +1,13 @@
 ---
 uid: frantisek.elfmark
-name:     František Elfmark  	# běžně používáné jméno
+name: František Elfmark  	# běžně používáné jméno
 fullname: Bc. František Elfmark, DiS.  	# jméno s tituly etc.
-category:  2. místopředseda MS UH   # kategorie
+category: 2. místopředseda MS UH   # kategorie
 - poslanec
+- pms
 - clenove
 img: people/frantisek-elfmark.jpg   # 165 x 220
-description: pirátský poslanec<br>zastupitel         	# kratký popis, max 160 znaků
+description: pirátský poslanec<br>zastupitel města         	# kratký popis, max 160 znaků
 mail:
 - frantisek.elfmark@pirati.cz
 profiles:
