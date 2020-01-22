@@ -5,7 +5,7 @@ fullname: Dušan Jurčík  	# jméno s tituly etc.
 category:                 # kategorie
 - clenove
 img: people/dusan-jurcik.jpg   # 165 x 220
-description: člen MS UH<br>pracovník v logistice          	# kratký popis, max 160 znaků
+description: člen MS UH<br>strojvedoucí         	# kratký popis, max 160 znaků
 mail:
 - dusan.jurcik@pirati.cz
 profiles:
