@@ -18,4 +18,5 @@ Cyklistika - Uherské Hradiště je městem cyklistů a to se nám líbí. Chcem
 Sportoviště města - Zajistíme rezervační online systém pro využití sportovišť veřejností. Chceme podporovat registrované i neorganizované sportovce, týmy a komunity všech velikostí. Rozšíříme výstavbu workoutových hřišť a prvků v dalších místech.
 
 V neposlední řadě jde v této oblasti jistě využít také participativní rozpočtování (PaRo). V něm by mohly sportovní kluby a spolky vymýšlet projekty, které by pak získávaly podporu občanů.
+
 ---
