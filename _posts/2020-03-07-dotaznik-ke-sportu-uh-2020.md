@@ -2,7 +2,7 @@
 layout: blog
 category: CLANKY
 title: 'Město UH v dotazníku sbírá náměty ke koncepci sportu. Zapojte se'
-date: 2020-003-07
+date: 2020-03-07
 image: /assets/img/posts/dotazniksport2020.jpg
 published: true
 author: Marek Houser
