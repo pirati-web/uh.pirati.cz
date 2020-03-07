@@ -13,9 +13,9 @@ Město Uherské Hradiště by mělo mít během příštího roku Koncepci rozvo
 
 Pokud byste měli zájem sportování ve městě řešit přímo ve spolupráci s Piráty, můžete se obrátit na naše zastupitele na adresách jaroslav.sevcik@pirati.cz a frantisek.elfmark@pirati.cz. Budeme mít ke koncepci vlastní balík podnětů. Pro orientaci přikládáme pár bodů z našeho předvolebního programu, které se sportování a volnočasových aktivit týkají.
 
-Cyklistika | Uherské Hradiště je městem cyklistů a to se nám líbí. Chceme jim ještě více zpříjemnit život. Podpoříme výstavbu a údržbu cyklostezek a chceme v centru města vybudovat parkovací cyklověž.
+Cyklistika - Uherské Hradiště je městem cyklistů a to se nám líbí. Chceme jim ještě více zpříjemnit život. Podpoříme výstavbu a údržbu cyklostezek a chceme v centru města vybudovat parkovací cyklověž.
 
-Sportoviště města | Zajistíme rezervační online systém pro využití sportovišť veřejností. Chceme podporovat registrované i neorganizované sportovce, týmy a komunity všech velikostí. Rozšíříme výstavbu workoutových hřišť a prvků v dalších místech.
+Sportoviště města - Zajistíme rezervační online systém pro využití sportovišť veřejností. Chceme podporovat registrované i neorganizované sportovce, týmy a komunity všech velikostí. Rozšíříme výstavbu workoutových hřišť a prvků v dalších místech.
 
 V neposlední řadě jde v této oblasti jistě využít také participativní rozpočtování (PaRo). V něm by mohly sportovní kluby a spolky vymýšlet projekty, které by pak získávaly podporu občanů.
 ---
