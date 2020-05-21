@@ -25,6 +25,6 @@ Takovou milou povinností zastupitelů bylo schválení nositelů Ceny Vladimír
  
 Závěr: Jak jsme jakožto volení zástupci Vás – občanů slíbili, snažíme se i z opozice náš program konstruktivně prosazovat, což jak se ukazuje je dobrá cesta, která přináší své ovoce.
 
-Přejeme všem hodně zdraví a neklesejte na mysli… 
-Jaroslav Ševčík a František Elfmark
+Přejeme všem hodně zdraví a neklesejte na mysli - Jaroslav Ševčík a František Elfmark
+
 ---
