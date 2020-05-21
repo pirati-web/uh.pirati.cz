@@ -9,7 +9,6 @@ author: František Elfmark
 authorId: frantisek.elfmark
 tags: 'zastupitelstvo report Jaroslav-Ševčík František-Elfmark'
 ---
-
 V pondělní slunečné odpoledne 18. května zasedalo - po dvouměsíční pauze zaviněné pandemií koronaviru, již po dvanácté zastupitelstvo města Uherského Hradiště. Tentokrát s malou změnou místa projednávání, kulisy malebné Reduty za větší prostory Klubu Kultury, které lépe splnily nařízení vlády – rozestup 2 metry od sebe. Ve velkém sále se nakonec usadilo 27 zastupitelů, včetně nás, Pirátů – Jaroslava Ševčíka a Františka Elfmarka.
  
 Na pořadu bylo celkem k projednání 16 bodů. Hlavním bodem programu bylo schválení dotačního programu na zmírnění následků COVID-19 v oblasti podnikání, jehož účelem je podpora fyzických a právnických osob, které v důsledku zavedení nouzového stavu v souvislosti s prokázáním výskytu koronaviru museli zastavit svou činnosti v oblasti poskytování služeb, výroby. Předpokládaný objem fin. prostředků podpory představuje 4 miliony. 
@@ -27,5 +26,4 @@ Závěr: Jak jsme jakožto volení zástupci Vás – občanů slíbili, snaží
 
 Přejeme všem hodně zdraví a neklesejte na mysli… 
 Jaroslav Ševčík a František Elfmark
-
 ---
