@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Piráti UH: Report z šestnáctého zastupitelstva, rozpočet města, územní plán města
+title: 'Piráti UH: Report z šestnáctého zastupitelstva, rozpočet města, územní plán'
 date: 2020-12-14
 image: /assets/img/posts/zmuh12.jpg
 published: true
@@ -19,5 +19,3 @@ Dalšími body projednávání byly Plán práce Zastupitelstva města Uherské 
 Závěrem: Jak jsme jakožto volení zástupci Vás – občanů slíbili, snažíme se i z opozice náš program konstruktivně prosazovat, což jak se ukazuje je dobrá cesta, která přináší své ovoce.
 
 Přejeme všem hodně zdraví a krásný advent - Jaroslav Ševčík a František Elfmark
-
----
