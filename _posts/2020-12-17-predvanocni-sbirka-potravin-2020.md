@@ -19,6 +19,4 @@ Přímo členové a příznivci Pirátů z regionu chtějí z vlastních prostř
 - Ve čtvrtek, v pátek a v pondělí do Sokola v UH. Od 8. do 18. hodiny. Kontaktem je Jaroslav Ševčík na telefonu 775 611 920. Volejte ideálně 30 minut před příchodem.
 - V pátek do kanceláře na adrese J. Stancla 151. Od 8. do 16. hodiny. Kontaktem je Stanislav Horák na čísle 777 217 858.
 
-Pokud nechcete či nemůžete přispět potravinami, můžete mezi přátele sdílet tento článek nebo <a href="ttps://www.facebook.com/events/494842808146836/" target="_blank">událost na Facebooku</a>.
-
-Děkujeme za případné přispění či sdílení a přejeme hezké svátky!
+Pokud nechcete či nemůžete přispět potravinami, můžete mezi přátele sdílet tento článek nebo <a href="ttps://www.facebook.com/events/494842808146836/" target="_blank">událost na Facebooku</a>. Děkujeme za případné přispění či sdílení a přejeme hezké svátky!
