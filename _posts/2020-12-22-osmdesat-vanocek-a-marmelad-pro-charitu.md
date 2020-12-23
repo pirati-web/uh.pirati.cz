@@ -12,7 +12,7 @@ tags: 'pomoc charita dobročinnost'
 
 Členové a příznivci uherskohradišťských Pirátů včetně pár "cizích" dárců se zapojili do naší předvánoční sbírky potravin pro potřebné. V rámci akce se podařilo nashromáždit zejména osmdesát kusů vánoček a stejné množství sklenic s marmeládami. Na ty se složili přímo členové a příznivci lokálních Pirátů. Mimo to jsme mohli v rámci dobročinné akce s radostí zprostředkovat také několik druhů ingrediencí na pečení cukroví.
 
-![image-title-here](/assets/img/posts/vanocky1.jpg){:class="img-responsive"} ![image-title-here](/assets/img/posts/vanocky2.jpg){:class="img-responsive"} ![image-title-here](/assets/img/posts/vanocky3.jpg){:class="img-responsive"}
+![Vánoční sbírka 2020 Piráti UH Charita vánočky](https://uh.pirait.cz/assets/img/posts/vanocky1.jpg){:class="img-responsive"} ![image-title-here](/assets/img/posts/vanocky2.jpg){:class="img-responsive"} ![image-title-here](/assets/img/posts/vanocky3.jpg){:class="img-responsive"}
 
 Veškerou potravinovou pomoc jsme v úterý 22. prosince předali Charitě Uherské Hradiště. Vánočky, marmelády a další suroviny obratem zamířily do cca sedmdesáti rodin, které tvoří její klientelu. Jsme moc rádi, že jsme lidem v těžké životní situaci alespoň tímto způsobem dokázali zpříjemnit období Vánoc. To je nejen pro ně umocněné i aktuálním řáděním koronaviru a vládními omezeními.
 
