@@ -1,7 +1,7 @@
 ---
 layout: blog
 category: CLANKY
-title: 'Výsledek pirátské sbírky: Osmdesát vánoček a marmelád pro Charitu UH'
+title: 'Výsledek pirátské vánoční sbírky v UH: 80 vánoček a marmelád pro místní Charitu'
 date: 2020-12-22
 image: /assets/img/posts/sbirka2020charita.jpg
 published: true
