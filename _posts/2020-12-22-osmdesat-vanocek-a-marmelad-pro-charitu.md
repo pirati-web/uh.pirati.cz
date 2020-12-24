@@ -10,7 +10,7 @@ authorId: marek.houser
 tags: 'pomoc charita dobročinnost'
 ---
 
-Členové a příznivci uherskohradišťských Pirátů včetně pár "cizích" dárců se zapojili do naší předvánoční sbírky potravin pro potřebné. V rámci akce se podařilo nashromáždit zejména osmdesát kusů vánoček a stejné množství sklenic s marmeládami. Na ty se složili přímo členové a příznivci lokálních Pirátů. Mimo to jsme mohli v rámci dobročinné akce s radostí zprostředkovat také několik druhů ingrediencí na pečení cukroví.
+Členové a příznivci uherskohradišťských Pirátů včetně pár dárců z řad veřejnosti se zapojili do naší předvánoční sbírky potravin pro potřebné. V rámci akce se podařilo nashromáždit zejména osmdesát kusů vánoček a stejné množství sklenic s marmeládami. Na ty se složili přímo členové a příznivci lokálních Pirátů. Mimo to jsme mohli v rámci dobročinné akce s radostí zprostředkovat také několik druhů ingrediencí na pečení cukroví.
 
 <iframe src="https://albumizr.com/a/SsUo" scrolling="no" frameborder="0" allowfullscreen width="700" height="400"></iframe>
 
