@@ -7,7 +7,7 @@ category:                               # kategorie
 - pms
 - clenove
 img: people/frantisek-elfmark.jpg   # 165 x 220
-description: místopředseda MS UH<br>poslanec ČR<br>zastupitel města UH         	# kratký popis, max 160 znaků
+description: předseda MS UH<br>poslanec ČR<br>zastupitel města UH         	# kratký popis, max 160 znaků
 mail:
 - frantisek.elfmark@pirati.cz
 mob:			  +420 604 171 281
@@ -15,8 +15,8 @@ profiles:
   facebook: https://www.facebook.com/FrantisekElfmark.DiS/
   linkedin: https://www.linkedin.com/in/frantisek-elfmark/
   twitter: http://twitter.com/ElfmarkF
-ordpms: 3
-ordkandidat: 2
+ordpms: 1
+ordkandidat: 1
 
 ---
 
