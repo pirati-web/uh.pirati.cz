@@ -16,6 +16,7 @@ profiles:
   linkedin: https://www.linkedin.com/in/frantisek-elfmark/
   twitter: http://twitter.com/ElfmarkF
 ordpms: 1
+ordkontakty: 1
 ordkandidat: 1
 
 ---
