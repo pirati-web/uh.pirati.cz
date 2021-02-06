@@ -6,7 +6,7 @@ category:                   # kategorie
 - clenove
 - pms
 img: people/jaroslav-sevcik.jpg   # 165 x 220
-description: místopředseda MS UH<br>správce T. J. Sokol UH<br>zastupitel města UH          	# kratký popis, max 160 znaků
+description: 1. místopředseda MS UH<br>správce T. J. Sokol UH<br>zastupitel města UH          	# kratký popis, max 160 znaků
 mob:			  +420 775 611 920
 mail:
 - jaroslav.sevcik@pirati.cz
