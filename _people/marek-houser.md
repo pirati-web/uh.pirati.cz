@@ -3,19 +3,15 @@ uid: marek.houser
 name:     Marek Houser  	# běžně používáné jméno
 fullname: Marek Houser  	# jméno s tituly etc.
 category:                 # kategorie
-- pms
-- kontakt
 - clenove
 img: people/marek-houser.jpg   # 165 x 220
-description: předseda MS UH<br>marketingový specialista<br>redaktor          	# kratký popis, max 160 znaků
+description: marketingový specialista<br>redaktor          	# kratký popis, max 160 znaků
 mail:
 - marek.houser@pirati.cz
 mob:			  +420 725 611 894
 profiles:
   facebook: https://www.facebook.com/marrahouser
   linkedin: https://www.linkedin.com/in/marrahouser
-ordpms: 1
-ordkontakty: 2
 ordkandidat: 5
 
 ---
