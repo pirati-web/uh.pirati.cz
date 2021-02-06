@@ -6,7 +6,7 @@ category:                   # kategorie
 - clenove
 - pms
 img: people/petr-tomasu.jpg   # 165 x 220
-description: 2. místopředseda MSUH<br>zastupitel obce Jalubí          	# kratký popis, max 160 znaků
+description: 2. místopředseda MS<br>zastupitel obce Jalubí          	# kratký popis, max 160 znaků
 mob:			  +420 605 051 931
 mail:
 - petr.tomasu@pirati.cz
