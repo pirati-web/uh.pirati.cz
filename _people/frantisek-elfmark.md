@@ -6,6 +6,7 @@ category:                               # kategorie
 - poslanec
 - pms
 - clenove
+- kontakt
 img: people/frantisek-elfmark.jpg   # 165 x 220
 description: předseda MS UH<br>poslanec ČR<br>zastupitel města Uh. Hradiště         	# kratký popis, max 160 znaků
 mail:
