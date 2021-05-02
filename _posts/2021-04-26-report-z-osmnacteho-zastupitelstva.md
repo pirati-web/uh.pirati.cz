@@ -30,9 +30,7 @@ Kulatý stůl 13.5.2021 od 16:00 zde: https://youtu.be/G8J7bzXwAR8
 
 S veškerými projednávanými dokumenty se můžete seznámit už nyní na www.hradistechytre.cz v sekci Strategie a koncepce anebo zde: https://hradistechytre.cz/2021/04/26/verejna-projednani-strategickych-dokumentu-hradiste-chytre/
 
-
 Pokud vás zajímá podrobněji některý bod, můžete si jej poslechnout zde: https://www.mesto-uh.cz/zastupitelstvo-zaznamy-ze-zasedani
-
 
 Přejeme všem pevné zdraví a hezké dny!
 František Elfmark a Jaroslav Ševčík
