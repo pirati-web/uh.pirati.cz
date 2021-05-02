@@ -3,7 +3,7 @@ layout: blog
 category: CLANKY
 title: 'Piráti UH: Report z osmnáctého zastupitelstva'
 date: 2021-04-26
-image: /assets/img/posts/zmuh17.jpg
+image: /assets/img/posts/zmuh12.jpg
 published: true
 author: František Elfmark
 authorId: frantisek.elfmark
