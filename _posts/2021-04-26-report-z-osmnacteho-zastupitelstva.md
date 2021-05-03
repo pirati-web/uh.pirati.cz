@@ -24,15 +24,15 @@ Podpořili jsme také bod, kdy se volili přísedící Okresního soudu v Uhersk
 
 Dovolujeme si Vás také pozvat na sledování online přenosů prezentací strategických dokumentů pořízených v rámci projektu „Hradiště chytře – využití konceptu Smart City a navazujících strategií k udržitelnému rozvoji Uherského Hradiště“. Nové strategie a koncepce z oblasti kultury, cestovního ruchu, sportu, Smart City, informatiky atd.. budou představeny prostřednictvím autorských prezentací  v rámci dvou kulatých stolů, které proběhnou 6. a 13. května 2021 od 16 hodin.  Prezentace budou streamovány na youtube kanál, kde zároveň bude možné v rámci chatu vznášet dotazy a připomínky. Veškeré vaše dotazy budou odpovězeny buď přímo během přenosu, anebo následně.
  
-Odkazy na připojení:
-Kulatý stůl 6.5.2021 od 16:00 zde:  https://youtu.be/U9PnrsnCC5A
-Kulatý stůl 13.5.2021 od 16:00 zde: https://youtu.be/G8J7bzXwAR8
+Odkazy na připojení:<br>
+Kulatý stůl 6.5.2021 od 16:00 zde:  [https://youtu.be/U9PnrsnCC5A](https://youtu.be/U9PnrsnCC5A)<br>
+Kulatý stůl 13.5.2021 od 16:00 zde: [https://youtu.be/G8J7bzXwAR8](https://youtu.be/G8J7bzXwAR8)<br>
 
 S veškerými projednávanými dokumenty se můžete seznámit už nyní na www.hradistechytre.cz v sekci Strategie a koncepce anebo zde: https://hradistechytre.cz/2021/04/26/verejna-projednani-strategickych-dokumentu-hradiste-chytre/
 
-Pokud vás zajímá podrobněji některý bod, můžete si jej poslechnout zde: https://www.mesto-uh.cz/zastupitelstvo-zaznamy-ze-zasedani
+Pokud vás zajímá podrobněji některý bod, můžete si jej poslechnout [zde](https://www.mesto-uh.cz/zastupitelstvo-zaznamy-ze-zasedani)
 
-Přejeme všem pevné zdraví a hezké dny!
+Přejeme všem pevné zdraví a hezké dny!<br>
 František Elfmark a Jaroslav Ševčík
 
 
