@@ -1,6 +1,6 @@
 ---
 layout: pirate-center
-heroHeadline: title: Dáme i na vás!
+heroHeadline: Dáme i na vás!
 heroDescription: Pirátský dotazník pro obyvatele UH 
 img: pardupice/hradiste.jpg
 addressNote: zatím nemáme místní adresu,
@@ -16,3 +16,4 @@ Vaše nápady a podněty jsou pro nás velmi důležité.
 Chceme být vaší prodlouženou rukou. Dotazník ponecháme do budoucna funkční i po ukončení komunální kampaně.
 
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdSE-l1V9IhViJsk1RcajCOsKr4oDiUN6WrXh8CyvcRCNT2gA/viewform?embedded=true" width="100%" height="537" frameborder="0" marginheight="0" marginwidth="0">Načítání...</iframe>
