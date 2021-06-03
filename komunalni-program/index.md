@@ -7,6 +7,7 @@ addressNote: zatím nemáme místní adresu,
              najdete nás na našich schůzích nebo akcích 
 rbar: ""
 ---
+<p>&nbsp;</p>
 <h1><strong>UH</strong>LÍDÁME ŘEŠENÍ STÁVAJÍCÍCH PROBLÉMŮ</h1>
 <p><span style="font-weight: 400;">Jsme přesvědčeni, že se v Uhersk&eacute;m Hradi&scaron;ti žije vcelku dobře. Vět&scaron;ina &ldquo;věc&iacute;&rdquo; uspokojivě funguje, občan&eacute; jsou přev&aacute;žně spokojen&iacute; a st&iacute;žnost&iacute; nen&iacute; mnoho. Když se nějak&eacute; objev&iacute;, </span><strong>vět&scaron;inou se opakuj&iacute; st&aacute;le ty stejn&eacute; n&aacute;mitky a podněty, kter&eacute; (ne)zodpovědn&iacute; doteď buď vůbec neře&scaron;ili, nebo odbyli nesplněn&yacute;m slibem.</strong><span style="font-weight: 400;"> Několik n&aacute;padů existuje dlouho jen na pap&iacute;ře, jin&yacute;mi se nikdo ani nezab&yacute;val. To je chyba.</span></p>
 <p>&nbsp;</p>
@@ -25,7 +26,7 @@ rbar: ""
 <p>Po volb&aacute;ch se budeme ř&iacute;dit na&scaron;&iacute; z&aacute;vaznou&nbsp;<a href="https://docs.google.com/document/d/16WVxqEkfuTDveQs3RuLnEsL6IS3sTWj9v7EJDZvRU0E/" target="_blank" rel="noopener">povolebn&iacute; strategi&iacute;.</a></p>
 <hr />
 <p>&nbsp;</p>
-<h1><p style="color:#2785ce; font-size:2.55rem">Jednotlivé programové body:</p></h1>
+<h1><strong>Jednotlivé programové body:</strong></h1>
 <h2>EKONOMIKA A INVESTICE</h2>
 <p><strong>Průhledn&aacute; v&yacute;běrov&aacute; ř&iacute;zen&iacute; | </strong><span style="font-weight: 400;">Vždy si prověř&iacute;me v&scaron;echny subjekty přihl&aacute;&scaron;en&eacute; do v&yacute;běrov&yacute;ch ř&iacute;zen&iacute; vypsan&yacute;ch městem a oslov&iacute;me minim&aacute;lně tři uchazeče. Ř&iacute;zen&iacute; budou transparentn&iacute; a jejich průběh budete moci sledovat krok za krokem. Konec uzavřen&yacute;m v&yacute;běrov&yacute;m ř&iacute;zen&iacute;m. Chceme aktivně spolupracovat s organizac&iacute; Hl&iacute;dač st&aacute;tu a zveřejňovat informace automaticky, ne až pot&eacute;, co si je někdo vyž&aacute;d&aacute;.</span></p>
 <p><strong>Vy rozhodnete, kam půjdou pen&iacute;ze |</strong><span style="font-weight: 400;"> Prostřednictv&iacute;m participativn&iacute;ho rozpočtu (PaRo) budete rozhodovat, kter&eacute; konkr&eacute;tn&iacute; projekty budou podpořeny finančn&iacute;mi prostředky z rozpočtu města. Budete m&iacute;t možnost přihl&aacute;sit i vlastn&iacute; projekt, jehož c&iacute;lem je zlep&scaron;en&iacute; života ve městě. Pod&iacute;vejte se, jak funguje </span><a href="https://wiki.pirati.cz/fo/navody/participativni_rozpocet" target="_blank"><span style="font-weight: 400;">PaRo v pod&aacute;n&iacute; Pir&aacute;tů</span></a><span style="font-weight: 400;">. A nebo </span><a href="https://damenavas.brno.cz/" target="_blank"><span style="font-weight: 400;">v Brně</span></a><span style="font-weight: 400;">.</span></p>
