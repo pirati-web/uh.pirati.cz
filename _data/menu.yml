@@ -22,14 +22,14 @@ main:
 #  - link: /pomahame/
 #    name: Záchranný kruh
 #    match: pomahame
-#  - link: /komunalni-program/
-#    name: Komunální program
-#    match: komunalni-program
+  - link: /komunalni-program/
+    name: Komunální program
+    match: komunalni-program
 # - link: /kde-jsme/
 #   name: Kde jsme?
 #   match: kde-jsme  
-# - link: /volby-2018/
-#   name: Volby 2018
+  - link: "https://www.frantisekelfmark.cz/"
+    name: Poslanec
 #   match: volby-2018
 #   submenu:
 #     - link: /volby-2018/
