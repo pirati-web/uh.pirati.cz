@@ -6,6 +6,8 @@ date: 2019-12-05
 author: Marek Houser
 authorId:
 image: posts/houserelfmark.jpg
+
+important: true
 ---
 Členská základna Pirátů Zlínského kraje si na přelomu listopadu a prosince zvolila nové předsednictvo krajského sdružení. Předsedou se nově stal Vratislav Krejčíř z Kroměříže. Dalšími místopředsedy byli zvoleni také Marek Houser a František Elfmark z Uherského Hradiště.
 
