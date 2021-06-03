@@ -6,8 +6,8 @@ keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 noresidence: yes
 contentSize: even
 contactPersons:
-  - id: vratislav.krejcir
-    position: Předseda krajského sdružení
+  - id: frantisek.elfmark
+    position: Předseda MS Uherské Hradiště
   - id: lucie.svehlikova
     position: Mediální specialistka
   - id: lucie.svehlikova
