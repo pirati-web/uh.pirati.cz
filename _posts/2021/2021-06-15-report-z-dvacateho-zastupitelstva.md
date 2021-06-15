@@ -20,7 +20,7 @@ Návrh spočíval v doplnění varianty (V2) která se zabývá výměnou topné
 
 Po více než hodinové debatě, kdy opoziční zastupitelé navrhovali, aby o variantě rozhodlo místní referendum, se konečně hlasovalo. Bohužel vedení města nepodpořilo ani uspořádání referenda a ani můj protinávrh, aby rada města dopracovala ekologickou studii, zabývala se možností decentralizace a aby u variant obsahujících spalování komunálních odpadů zajistila rozšíření studii o akceptaci IPPC a dopadu na ekonomiku u variant V4 a V5. Uspořádání referenda jsem samozřejmě podpořil.
 
-Zde všechny varianty, které obsahuje studie: 
+ <b>Zde všechny varianty, které obsahuje studie:</b> 
 
 (V0) Stávající stav s ekologizací uhelného zdroje + KGJpřip (nerealizovatelné) <br>
 (V1) Integrace ZEVO do stávajícího stavu (nerealizovatelné)<br>
