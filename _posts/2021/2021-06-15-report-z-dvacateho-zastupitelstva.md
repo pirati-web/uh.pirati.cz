@@ -20,7 +20,7 @@ Návrh spočíval v doplnění varianty (V2) která se zabývá výměnou topné
 
 Po více než hodinové debatě, kdy opoziční zastupitelé navrhovali, aby o variantě rozhodlo místní referendum, se konečně hlasovalo. Bohužel vedení města nepodpořilo ani uspořádání referenda a ani můj protinávrh, aby rada města dopracovala ekologickou studii, zabývala se možností decentralizace a aby u variant obsahujících spalování komunálních odpadů zajistila rozšíření studii o akceptaci IPPC a dopadu na ekonomiku u variant V4 a V5. Uspořádání referenda jsem samozřejmě podpořil.
 
- <b>Zde všechny varianty, které obsahuje studie:</b> 
+ <b><u>Zde všechny varianty, které obsahuje studie:</u></b>
 
 (V0) Stávající stav s ekologizací uhelného zdroje + KGJpřip (nerealizovatelné) <br>
 (V1) Integrace ZEVO do stávajícího stavu (nerealizovatelné)<br>
@@ -34,7 +34,7 @@ Po více než hodinové debatě, kdy opoziční zastupitelé navrhovali, aby o v
 Vysvětlivky: Plynový kotel = kotel s výkonem 6 MW KGJpřipr = kogenerační jednotka (zařízení pro kombinovanou výrobu tepla a elektrické energie, přičemž je smysluplně využito odpadní teplo vznikající při výrobě elektřiny; jedná se o „turbínu“), kterou společnost CTZ již připravuje k realizaci v blokové kotelně Štěpnice KGJnová = nově vybudovaná kogenerační jednotka o výkonu 1 MWe ZEVO = malá spalovna na biologicky rozložitelný odpad a tuhý komunální odpad o kapacitě 15 kt/r (tj. příjezd 9 vozidel denně). Variantně byla zvažována kapacita 10, 12 a 15 tk/r.
 
 
-Vysvětlení co můj protinávrh měl řešit:
+<b><u>Vysvětlení co můj protinávrh měl řešit:</b></u>
 
 + I decentralizace stávajícího řešení může být provedeno klidně i CTZ s.r.o., tedy tato varianta nemusí znamenat zánik CTZ, ale pouze její transformaci. Bohužel bez analýzy toto nevíme. Chápu obavy, že může být problematické umístění lokálních zařízení, ale toto nemůžeme bez analýzy vědět. Dle mých informací by decentralizace mohla znamenat až o třetinu nižší ceny plynu a zlevnit dodávky tepla a zároveň se jedná o moderní trend v západní Evropě, která je v managementu energetiky podstatně napřed.
 
@@ -62,7 +62,7 @@ Koncepce rozvoje a řízení kultury<br>
 Koncepce rozvoje cestovního ruchu<br>
 Koncepce rozvoje a řízení sportu<br>
 
-Co v nich chybí? Proč jsem tyto materiály nepodpořil?
+<b><u>Co v nich chybí? Proč jsem tyto materiály nepodpořil?</b></u>
 
 Materiály obsahují mnoho informací, které pro město nejsou nové a jsou známé dlouhodobě. Hlavní chyba je však v zadání, tyto koncepce a strategie jsou bohužel dělané jen proto, abychom na jejich základě mohli čerpat dotační prostředky nebo na ně mohli odkázat, když se koaliční strany rozhodnou prosadit konkrétní projekt. Chybí konkrétní zasazení koncepcí do provozu městského úřadu. Není zřejmé, jak budou informace a data přeneseny do informačních systémů města. Koncepce a strategie určují rámce proto, jak mají být projekty tvořeny a připomínkovány. 
 
