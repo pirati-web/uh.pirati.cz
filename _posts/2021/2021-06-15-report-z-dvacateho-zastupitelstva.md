@@ -45,7 +45,7 @@ Po více než hodinové debatě, kdy opoziční zastupitelé navrhovali, aby o v
 **Co to je IPPC?**
 Integrovaná prevence a omezování znečištění (z angl. Integrated Pollution Prevention and Control - IPPC) je pokročilým způsobem regulace vybraných průmyslových a zemědělských činností při dosažení vysoké úrovně ochrany životního prostředí jako celku.
 
-Cílem IPPC je předcházet vzniku znečištění, případně omezování jeho vzniku, pomocí volby vhodných výrobních postupů a technologií. Zároveň by mělo docházet k úspoře nákladů za spotřebované suroviny, energie a koncové technologie. IPPC překonává princip složkového přístupu, který často vedl pouze k přenosu znečištění z jedné složky životního prostředí do druhé. [https://www.mzp.cz/ippc]
+Cílem IPPC je předcházet vzniku znečištění, případně omezování jeho vzniku, pomocí volby vhodných výrobních postupů a technologií. Zároveň by mělo docházet k úspoře nákladů za spotřebované suroviny, energie a koncové technologie. IPPC překonává princip složkového přístupu, který často vedl pouze k přenosu znečištění z jedné složky životního prostředí do druhé. (https://www.mzp.cz/ippc)
 
 ***
 
