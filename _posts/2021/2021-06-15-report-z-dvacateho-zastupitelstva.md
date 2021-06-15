@@ -22,14 +22,14 @@ Po více než hodinové debatě, kdy opoziční zastupitelé navrhovali, aby o v
 
 Zde všechny varianty, které obsahuje studie: 
 
-(V0) Stávající stav s ekologizací uhelného zdroje + KGJpřip (nerealizovatelné) 
-(V1) Integrace ZEVO do stávajícího stavu (nerealizovatelné)
-(V2) 3x Plynový kotel + KGJpřipr 
-(V3) 3x Plynový kotel + KGJpřipr + 3x KGJnová
-(V4) 3x Plynový kotel + ZEVO + KGJpřipr 
-(V5) 3x Plynový kotel + ZEVO + KGJpřipr + 1x KGJnová
-(V6) 3x Biomasový kotel + KGJpřipr 
-(V7) Plynové kotle + bioplynová stanice (nerealizovatelné) 
+(V0) Stávající stav s ekologizací uhelného zdroje + KGJpřip (nerealizovatelné) <br>
+(V1) Integrace ZEVO do stávajícího stavu (nerealizovatelné)<br>
+(V2) 3x Plynový kotel + KGJpřipr <br>
+(V3) 3x Plynový kotel + KGJpřipr + 3x KGJnová<br>
+(V4) 3x Plynový kotel + ZEVO + KGJpřipr <br>
+(V5) 3x Plynový kotel + ZEVO + KGJpřipr + 1x KGJnová<br>
+(V6) 3x Biomasový kotel + KGJpřipr <br>
+(V7) Plynové kotle + bioplynová stanice (nerealizovatelné) <br>
 
 Vysvětlivky: Plynový kotel = kotel s výkonem 6 MW KGJpřipr = kogenerační jednotka (zařízení pro kombinovanou výrobu tepla a elektrické energie, přičemž je smysluplně využito odpadní teplo vznikající při výrobě elektřiny; jedná se o „turbínu“), kterou společnost CTZ již připravuje k realizaci v blokové kotelně Štěpnice KGJnová = nově vybudovaná kogenerační jednotka o výkonu 1 MWe ZEVO = malá spalovna na biologicky rozložitelný odpad a tuhý komunální odpad o kapacitě 15 kt/r (tj. příjezd 9 vozidel denně). Variantně byla zvažována kapacita 10, 12 a 15 tk/r.
 
@@ -53,14 +53,14 @@ Nepodpořil jsem ani závěrečný účet města za rok 2020, ani zprávu o pln�
 
 Chci se ještě zastavit u dalšího bodu, který jsem nepodpořil. V něm se schvalovala “Závěrečná zpráva o zpracování a projednání výstupů projektu Hradiště chytře a návrh dalšího postupu při implementaci konceptu Smart City”. O Uherském Hradišti se říká, že je město koncepcí a strategií, což můžu potvrdit a takto Útvar městského architekta funguje bohužel dlouhodobě. Město nechalo udělat za mnoho milionů 9 strategií, koncepcí a analýz a to pod názvem Strategie Smart City.
 
-Informační strategie
-Analýza a návrh optimalizace dopravy v klidu na sídlišti Východ
-Koncepce rozvoje veřejného osvětlení
-Místní adaptační strategie na změnu klimatu
-Strategie rozvoje kulturních a kreativních průmyslů
-Koncepce rozvoje a řízení kultury
-Koncepce rozvoje cestovního ruchu
-Koncepce rozvoje a řízení sportu
+Informační strategie<br>
+Analýza a návrh optimalizace dopravy v klidu na sídlišti Východ<br>
+Koncepce rozvoje veřejného osvětlení<br>
+Místní adaptační strategie na změnu klimatu<br>
+Strategie rozvoje kulturních a kreativních průmyslů<br>
+Koncepce rozvoje a řízení kultury<br>
+Koncepce rozvoje cestovního ruchu<br>
+Koncepce rozvoje a řízení sportu<br>
 
 Co v nich chybí? Proč jsem tyto materiály nepodpořil?
 
