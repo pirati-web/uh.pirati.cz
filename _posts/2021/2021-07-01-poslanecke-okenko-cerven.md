@@ -56,4 +56,3 @@ Ještě jste od našich dobrovolníků a kandidátů v ulicích měst, obcí neb
 Hezké, a snad i trochu odpočinkové léto!
 
 **[František Elfmark](https://zlinsky.pirati.cz/lide/frantisek-elfmark/)**
-
